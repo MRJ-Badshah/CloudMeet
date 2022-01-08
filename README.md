@@ -6,24 +6,23 @@
 
 [//]: https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
-[![Author](https://img.shields.io/badge/Author-Jaideep25-brightgreen.svg)](https://www.github.com/Jaideep25/Videolify/)
+[![Author](https://img.shields.io/badge/Author-MRJ_Badshah-brightgreen.svg)](https://www.github.com/MRJ-Badshah/)
 ![License: AGPLv3](https://img.shields.io/badge/License-AGPLv3-blue.svg)
-[![Repo Link](https://img.shields.io/badge/Repo-Link-black.svg)](https://github.com/Jaideep25/videolify)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?)](https://github.com/prettier/prettier) [![Join the chat at https://gitter.im/Videolify/community](https://badges.gitter.im/Videolify/community.svg)](https://gitter.im/Videolify/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Repo Link](https://img.shields.io/badge/Repo-Link-black.svg)](https://github.com/MRJ-Badshah/CloudMeets)
 
 Powered by `WebRTC` using google Stun and [numb](http://numb.viagenie.ca/) Turn. `Videolify` provides video quality and latency not available with traditional technology.
 
 Open the app in one of following **supported browser**
 
-[//]: #![webrtc](www/images/webrtc.png)
+[//]: #![webrtc](public/images/webrtc.png)
 
-[![Foo](www/images/browsers.png)](https://videolify.herokuapp.com/)
+[![Foo](public/images/browsers.png)](https://cloudmeetings.herokuapp.com/)
 
-## https://videolify.herokuapp.com/
+## <p align="center"><a href="https://cloudmeetings.herokuapp.com/">Open CloudMeets</a></p>
 
 <br>
 
-[![videolify](www/images/preview.png)](https://videolify.herokuapp.com/)
+[![CloudMeets](public/images/preview.png)](https://videolify.herokuapp.com/)
 
 ## Features
 
@@ -49,14 +48,14 @@ Open the app in one of following **supported browser**
 
 ## Demo
 
-- `Open` https://videolify.herokuapp.com/newcall `or` https://videolify.up.railway.app/newcall
+- `Open` https://cloudmeets.herokuapp.com/newcall `or` https://cloudmeet.mrjbadshah.repl.co
 - `Pick` your personal Room name and `Join To Room`
 - `Allow` to use the camera and microphone
 - `Share` the Room URL and `Wait` someone to join for video conference
 
 ## Room name
 
-- You can also `join` directly to your room name by going to https://videolify.herokuapp.com/join/your-room-name-goes-here `or` https://videolify.up.railway.app/join/your-room-name-goes-here
+- You can also `join` directly to your room name by going to https://cloudmeets.herokuapp.com/join/your-room-name-goes-here `or` https://CloudMeet.mrjbadshah.repl.co/join/your-room-name-goes-here
 
 ## Quick start
 
@@ -154,15 +153,15 @@ You can use a service like [ngrok](https://ngrok.com/) or deploy it on:
 
 <br>
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/MRJ-Badshah/CloudMeet/)
 
-`DEMO` https://videolify.herokuapp.com/
+`DEMO` https://cloudmeets.herokuapp.com/
 
 <br>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
+[![Deploy on](https://railway.app/button.svg)](https://railway.app)
 
-`DEMO :` https://videolify.up.railway.app/
+`DEMO :` https://cloudmeet.mrjbadshah.repl.co/
 
 ---
 
@@ -177,8 +176,8 @@ From where I took inspiration for this project. ❤️
 ## Contributing
 
 - Pull Requests are welcome! :slightly_smiling_face:
-- Please run [prettier](https://prettier.io) on all of your PRs before submitting, this can be done with `prettier --write videolify/`
+- Please run [prettier](https://prettier.io) on all of your PRs before submitting, this can be done with `prettier --write cloudmeets/`
 
 ---
 
-<p align="center"> Made with ❤️ by <a href="https://www.github.com/Jaideep25/">Jaideep25</a></p>
+<p align="center"> Made with ❤️ by <a href="https://www.github.com/MRJ-Badshah/">MRJ Badshah</a></p>
