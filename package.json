@@ -1,5 +1,5 @@
 {
-  "name": "videolify",
+  "name": "CloudMeets",
   "version": "1.0.0",
   "description": "A free WebRTC browser-based video call",
   "main": "app/src/server.js",
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git.heroku.com/videolify.git"
+    "url": "git+https://git.heroku.com/cloudmeets.git"
   },
-  "author": "Jaideep25",
+  "author": "MRJBadshah",
   "license": "AGPLv3",
-  "homepage": "https://videolify.up.railway.app/",
+  "homepage": "https://cloudmeets.heroku.com/",
   "dependencies": {
     "compression": "^1.7.4",
     "cors": "^2.8.5",
