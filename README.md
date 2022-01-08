@@ -1,4 +1,4 @@
-# Videolify
+# CloudMeet
 
 🚀 `A free WebRTC browser-based video call, chat and screen sharing` 🚀
 
